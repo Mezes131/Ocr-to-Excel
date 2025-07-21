@@ -116,5 +116,5 @@ Then open the interactive Swagger documentation:
 
 ## 👨‍💻 Author
 
-Developed by \[Mezes]
+Developed by Mezes
 Contact: [mezatioange@gmail.com](mailto:mezatioange@gmail.com)
