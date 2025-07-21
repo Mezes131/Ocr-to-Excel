@@ -46,8 +46,8 @@ ocr_excel_backend/
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/your-username/ocr_excel_backend.git
-cd ocr_excel_backend
+git clone https://github.com/Mezes131/Ocr-to-Excel.git
+cd backend
 ```
 
 ### 2. Create a virtual environment
